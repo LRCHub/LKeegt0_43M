@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スペル、なぞって",
+  "base_artist": "Adomiori、音街ウナ",
+  "createdAt": "2025-12-01T07:48:56.953376Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スペル、なぞって (feat. 音街ウナ)",
+      "artist": "Adomiori",
+      "has_synced": false,
+      "path": "select/pl_01_スペル、なぞって_(feat._音街ウナ)_Adomiori.txt"
+    }
+  ]
+}
